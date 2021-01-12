@@ -1,0 +1,29 @@
+table,td,th{
+	border: 2.5px solid black;
+	text-align: center;
+}
+table{
+	margin-left: 0;
+	margin-top: 10px;
+	width: 800px;
+	height: 400px;
+	border-collapse: collapse;
+}
+th{
+	font-size: 20px;
+	color: darkcyan;
+}
+h1{
+	margin-left: 200px;
+	margin-top: 50px;
+	font-style: normal;
+	font-size: 50px;
+	color: violet;
+}
+.mitu{
+	height: 400px;
+	width: 800px;
+	margin-left: 500px;
+	overflow-y: scroll;
+	border: 3px solid grey;
+}
